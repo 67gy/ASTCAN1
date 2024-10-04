@@ -99,5 +99,3 @@ Result files are stored in ```results/result_test/result_run_<'PATH+random numbe
 
 ```
 
-Set ```--CKPT={'small', 'large'} --CKPT_E=13``` to testing or resume training, details can be found in [Training](#Training) and [Validation and Testing](#Validation-and-Testing). 
-
